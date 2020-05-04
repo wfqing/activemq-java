@@ -19,7 +19,7 @@ import com.etoak.listener.MessageListener;
 public class HelloConsumer {
 ///////////////////////////////////////
 	//////////////////
-	
+	//iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 //测试git	
 	public static void main(String[] args) throws JMSException {
 		//创建ConnectionFactory
