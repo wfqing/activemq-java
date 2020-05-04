@@ -20,6 +20,7 @@ public class HelloConsumer {
 ///////////////////////////////////////
 	//////////////////
 	//iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+	//et1910修改
 //测试git	
 	public static void main(String[] args) throws JMSException {
 		//创建ConnectionFactory
