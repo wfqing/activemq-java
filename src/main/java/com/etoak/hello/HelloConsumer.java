@@ -17,7 +17,8 @@ import org.apache.activemq.ActiveMQConnectionFactory;
 import com.etoak.listener.MessageListener;
 
 public class HelloConsumer {
-
+///////////////////////////////////////
+	//////////////////
 	public static void main(String[] args) throws JMSException {
 		//创建ConnectionFactory
 		ConnectionFactory factory = new ActiveMQConnectionFactory(null, null, "tcp://localhost:61616");
